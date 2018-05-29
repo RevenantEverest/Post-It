@@ -1,0 +1,4 @@
+CREATE TABLE POSTS (
+  ID serial,
+  CONTENT VARCHAR(255)
+);
